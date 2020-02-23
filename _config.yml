@@ -1,13 +1,18 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "GREAT CHINA"
+date: 2020-02-23
+---
+theme: minima
+title: GREAT CHINA
+author: Hongping
+email: chianghoping@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Google search results) and in your feed.xml site description. great web
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: chianghoping # DO NOT include the @ character, or else the build will fail!
+github_username:  jianghongping # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
